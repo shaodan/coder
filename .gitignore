@@ -1,0 +1,14 @@
+#python
+*.pyc
+*.ipynb
+
+#java
+*.class
+
+#gcc
+*.out
+*.o
+
+#os
+.DS_Store
+desktop.ini
